@@ -20,7 +20,10 @@ For example:
 
 You can then load the resulting image into your game, or with REXPaint.
 
+**Original Kitty PNG**
 ![Original PNG of a kitty](https://raw.githubusercontent.com/thebracket/png2rex/master/testimage/kitty.png)
+
+**REXPaint Kitty**
 ![REXPaint output](https://raw.githubusercontent.com/thebracket/png2rex/master/testimage/Kitty-REX.png)
 
 *Credits*: 
