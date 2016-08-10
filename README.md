@@ -6,7 +6,8 @@ you find it useful!
 
 ## To build
 
-This uses a standard CMake setup, and requires zlib and libpng. Typically, `mkdir build; cd build; cmake -g"Unix Makefiles" ../src; make` 
+This uses a standard CMake setup, and requires zlib and libpng. Typically:
+ `mkdir build; cd build; cmake -g"Unix Makefiles" ../src; make` 
 will get you going.
 
 ## Usage
@@ -18,6 +19,9 @@ For example:
 `png2rex ../testimage/kitty.png kitty.xp`
 
 You can then load the resulting image into your game, or with REXPaint.
+
+![Original PNG of a kitty](https://raw.githubusercontent.com/thebracket/png2rex/master/testimage/kitty.png)
+![REXPaint output](https://raw.githubusercontent.com/thebracket/png2rex/master/testimage/Kitty-REX.png)
 
 *Credits*: 
 * [REXPaint by Kyzrati of Grid Sage Games](http://www.gridsagegames.com/rexpaint/).
