@@ -1,5 +1,7 @@
 # rex2png - a utility for converting PNG files into REXPaint files
 
+**Note: See [png2rex_rs](https://github.com/thebracket/png2rex_rs) for a version written in Rust, that I'm actually supporting.**
+
 This is a simple utility I needed for [Black Future](https://github.com/thebracket/bgame) to convert PNG files into REXPaint format.
 It handles transparency, and translucency with appropriate CP-467 tiles. It's pretty simple, but it does what I need. I hope
 you find it useful!
